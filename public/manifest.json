@@ -1,0 +1,22 @@
+{
+  "name": "성경 이야기",
+  "short_name": "성경 이야기",
+  "description": "그림과 쉬운 해설로 이해하는 성경 이야기",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffbeb",
+  "theme_color": "#fffbeb",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
